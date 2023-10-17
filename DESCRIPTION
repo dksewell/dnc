@@ -1,0 +1,12 @@
+Package: dnc
+Type: Package
+Title: Dynamic Network Clustering
+Version: 1.2
+Date: 2023-10-17
+Author: Daniel K. Sewell
+Maintainer: Dan Sewell <daniel-sewell@uiowa.edu>
+Description: Community detection for dynamic networks, i.e., networks measured repeatedly over a sequence of discrete time points, using a latent space approach.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.11)
+LinkingTo: Rcpp, RcppArmadillo
+LazyData: true
